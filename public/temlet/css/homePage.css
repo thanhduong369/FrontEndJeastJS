@@ -1,0 +1,40 @@
+#dinh{
+    display:flex;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+}
+#themmoi {
+    margin-left: 820px;
+    margin-top: 3px;
+}
+.fas{
+    color: red;
+    font-size: 23px;
+}
+.fa-pencil-alt{
+    color: blue;
+    font-size: 23px;
+}
+.fa-pencil-alt:hover {
+    background-color: yellow;
+}
+
+.fa-pencil-alt:hover {
+    background-color: yellow;
+}
+#form-create{
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 16px;
+}
+#form-create button{
+    width: 10%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    height: 37px;
+}
+.fa-accusoft{
+    text-align:left;
+}
